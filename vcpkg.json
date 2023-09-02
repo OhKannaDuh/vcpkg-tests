@@ -1,0 +1,10 @@
+{
+    "name": "vcpkg-tests",
+    "version-string": "0.0.1",
+    "license": "MIT",
+    "dependencies": [
+      "entt",
+      "nlohmann-json",
+      "stduuid"
+    ]
+  }
